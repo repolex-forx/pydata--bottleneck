@@ -1,0 +1,11 @@
+{
+  "org": "pydata",
+  "repo": "bottleneck",
+  "versions": [
+    {
+      "commit": "40535963422ff2083c667e779fa1c9e66f4a1429",
+      "tag": "",
+      "parsed_at": "2026-10-15T20:53:37.967335+00:00"
+    }
+  ]
+}
